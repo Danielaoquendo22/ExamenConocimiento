@@ -1,0 +1,13 @@
+TALLER1 JAVA
+2. 
+a. tiene tres clases
+b. en la clase Zoologico.
+c. se instanciaron dos objetos de la clase animal.
+d. son cuatro atributos: nombre, genero, peso, pareja.
+e. String y Animal
+f. No se hace uso de la función "encontrar pareja" de la clase animal, por ende no se puede instanciar un objeto de la clase familia en la linea 20 y se genere el error "Aun no se puede tener hijos.
+g.La clase familia tiene 2 metodos 
+h.Tiene un solo parametro.
+i. 2 atributos
+j. El método tenerHijo tiene un tipo de retorno de void, lo cual significa que no retorna ningún valor.
+
